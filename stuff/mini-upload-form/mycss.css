@@ -1,0 +1,57 @@
+.ui-listview {
+    margin: 0 !important;
+}
+ 
+#viewNames, #viewNames div.iscroll-scroller {
+    width: 100% !important;
+}
+
+#logoDiv
+{
+   
+}
+
+#logo
+{
+     height: 150px;   
+    width: 150px;
+}
+#admin_login
+{
+    width:120px;
+    float: right;   
+}   
+    
+#back
+{
+    width: 58px;
+    float: right;   
+}       
+
+#back_home
+{
+     width: 58px;
+    float: right;   
+}
+
+#button_save
+{
+    margin-top: 20px;
+    margin-left: 605px;
+    width: 245px;
+    text-align: center;   
+}  
+
+#admin_logout
+{
+     width:120px;
+    float: right;   
+}
+
+#button_login
+{
+    margin-top: 20px;
+    margin-left: 605px;
+    width: 245px;
+    text-align: center;   
+}
